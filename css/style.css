@@ -446,4 +446,8 @@ nav .menu-btn {
     width: 90%;
     height: 40px;
   }
+
+  .search i {
+    margin-left: 5px;
+  }
 }
